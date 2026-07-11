@@ -12,31 +12,51 @@
 
 Research Associate working on robotics, computer vision, and automation. Always tinkering with something new. Currently working on robotics and computer vision projects, learning new tools in automation and ML, and happy to talk about C++, Python, or ROS.
 
-## My ASCII Bot
+[LinkedIn](https://www.linkedin.com/in/aulon-bajrami-a65775101)
 
-```
-     ___________
-    |  _______  |
-    | | o   o | |
-    | |___^___| |
-    |___________|
-     |    |    |
-    _|____|____|_
-   |             |
-   |   IPA-ALB   |
-   |_____________|
-      |       |
-     _|_     _|_
-    |___|   |___|
-```
+## My ASCII Bot and CV
 
-He even does a little dance:
+<table>
+     <tr>
+          <td valign="top" width="40%">
+               <pre>
+                         ___________
+                        |  _______  |
+                        | | o   o | |
+                        | |___^___| |
+                        |___________|
+                         |    |    |
+                        _|____|____|_
+                       |             |
+                       |   IPA-ALB   |
+                       |_____________|
+                          |       |
+                         _|_     _|_
+                        |___|   |___|
+               </pre>
+          </td>
+          <td valign="top">
 
-<div align="center">
+### CV
 
-![Dancing robot](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=150&pause=150&color=FF6EC7&center=true&vCenter=true&width=300&repeat=true&lines=%5C%5Bo_o%5D%2F;-%5Bo_o%5D-;%7C%5Bo_o%5D%7C;-%5Bo_o%5D-)
+**Fraunhofer IPA**<br>
+Tech Lead Humanoids, since 2025<br>
+Research Associate, since 2019
 
-</div>
+**Trumpf GmbH**<br>
+2019
+
+**Master, University of Stuttgart**<br>
+2016 - 2018
+
+**Master, Georgia Tech**<br>
+2014 - 2016
+
+**Bachelor, University of Stuttgart**<br>
+2010 - 2014
+</td>
+     </tr>
+</table>
 
 ## Tech and Interests
 
