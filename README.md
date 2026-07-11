@@ -30,6 +30,14 @@ Research Associate working on robotics, computer vision, and automation. Always 
     |___|   |___|
 ```
 
+He even does a little dance:
+
+<div align="center">
+
+![Dancing robot](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=150&pause=150&color=FF6EC7&center=true&vCenter=true&width=300&repeat=true&lines=%5C%5Bo_o%5D%2F;-%5Bo_o%5D-;%7C%5Bo_o%5D%7C;-%5Bo_o%5D-)
+
+</div>
+
 ## Tech and Interests
 
 Robotics and Automation. Computer Vision. C++, Python, and ROS.
