@@ -20,19 +20,19 @@ Research Associate working on robotics, computer vision, and automation. Always 
      <tr>
           <td valign="top" width="40%">
                <pre>
-                         ___________
-                        |  _______  |
-                        | | o   o | |
-                        | |___^___| |
-                        |___________|
-                         |    |    |
-                        _|____|____|_
-                       |             |
-                       |   IPA-ALB   |
-                       |_____________|
-                          |       |
-                         _|_     _|_
-                        |___|   |___|
+                      ___________
+                     |  _______  |
+                     | | o   o | |
+                     | |___^___| |
+                     |___________|
+                      |    |    |
+                     _|____|____|_
+                    |             |
+                    |   IPA-ALB   |
+                    |_____________|
+                       |       |
+                      _|_     _|_
+                     |___|   |___|
                </pre>
           </td>
           <td valign="top">
