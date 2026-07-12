@@ -14,7 +14,7 @@ Research Associate working on robotics, computer vision, and automation. Always 
 
 [LinkedIn](https://www.linkedin.com/in/aulon-bajrami-a65775101)
 
-## My ASCII Bot and CV
+## CV
 
 <table>
      <tr>
@@ -46,13 +46,13 @@ Research Associate, since 2019
 **Trumpf GmbH**<br>
 2019
 
-**Master, University of Stuttgart**<br>
+**Master, University of Stuttgart; Kybernetics**<br>
 2016 - 2018
 
-**Master, Georgia Tech**<br>
+**Master, Georgia Tech; Mechanics Engineering and Science**<br>
 2014 - 2016
 
-**Bachelor, University of Stuttgart**<br>
+**Bachelor, University of Stuttgart; Automotive and Engine Engineering**<br>
 2010 - 2014
 </td>
      </tr>
